@@ -1,0 +1,33 @@
+{
+  "leadingText": "All about",
+  "slides": [
+    {
+      "introline": "How was your week overall?",
+      "id": "week",
+      "content": {
+        "options": ["Good", "Bad", "Awesome"]
+      }
+    },
+    {
+      "introline": "How was your weekend?",
+      "id": "weekend",
+      "content": {
+        "options": ["Fantastic", "Boring", "Peaceful"]
+      }
+    },
+    {
+      "introline": "How was your trip?",
+      "id": "trip",
+      "content": {
+        "options": ["Adventurous", "Relaxing", "Tiring"]
+      }
+    },
+    {
+      "introline": "How was your party last night?",
+      "id": "party",
+      "content": {
+        "options": ["Blast", "Dull", "Fantastic"]
+      }
+    }
+  ]
+}
